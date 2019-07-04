@@ -1,4 +1,4 @@
-# REX de Trois années d'Event Sourcing (SunnyTech2019)
+# REX de Trois années d'Event Sourcing
 
 #### Durée : 50min / Niveau : Intermédiaire
 
